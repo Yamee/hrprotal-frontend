@@ -22,7 +22,7 @@ const Table = (props) => {
     <table className="table">
       <thead>
         <tr>
-          <th scope="col">Name</th>
+          <th scope="col">ABCDName</th>
           <th scope="col">Profession</th>
           <th scope="col">Location</th>
         </tr>

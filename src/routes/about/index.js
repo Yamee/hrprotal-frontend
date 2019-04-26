@@ -3,10 +3,12 @@ import Layout from '../../components/Layout';
 const AboutContent = (props) => {
   return <div className="row">
       <div className="col">
-        <h1>About Thanos Cheese</h1>
-        <p>Company was founded in 2005 Company was founded in 2005 A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.</p>
+        <h1>HR PORTAL</h1>
         <p>
-          A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
+      First hand support portal for employee.
+</p>
+        <p>
+         
         </p>
       </div>
     </div>
